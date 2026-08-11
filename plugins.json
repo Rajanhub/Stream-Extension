@@ -206,7 +206,7 @@
         "version": 33,
         "internalName": "DoFlixProvider",
         "description": "DoFlix Provider for Movies and TV Series",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DoFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Rajanhub/Stream-Extension/builds/DoFlixProvider.cs3",
         "name": "DoFlixProvider"
     },
     {
@@ -414,7 +414,8 @@
         "version": 47,
         "internalName": "MovieBoxProviderIN",
         "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
+        "url": "https://raw.githubusercontent.com/Rajanhub/Stream-Extension/builds/MovieBoxProviderIN.cs3
+        ",
         "name": "MovieBoxProviderIN"
     },
     {
