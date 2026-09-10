@@ -414,7 +414,7 @@
         "version": 47,
         "internalName": "MovieBoxProviderIN",
         "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
-        "url": "https://raw.githubusercontent.com/Rajanhub/Stream-Extension/builds/MovieBoxProviderIN.cs3",
+        "url": "https://raw.githubusercontent.com/Rajanhub/Stream-Extension/builds/MovieBoxProvider.cs3",
         "name": "MovieBoxProviderIN"
     },
     {
